@@ -211,6 +211,9 @@ aside {
     box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.25);
 
     padding: 10px;
+
+    margin-bottom: 20px;
+
     border-radius: 10px;
 }
 
